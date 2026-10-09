@@ -50,3 +50,10 @@ Clicking on navbar menu options should not lead to anywhere!
 You are expected to only use pure CSS and HTML.
 No CSS framework or JavaScript code!
 
+Sources:
+NASA: https://svs.gsfc.nasa.gov/15030
+UAF Geophysical Institute: https://www.gi.alaska.edu/alaska-science-forum/mendenhall-glacier-pull-toe-lake
+Mendenhall Glacier Report 2022 (PDF): https://media.ktoo.org/wp-content/uploads/2025/11/Mendenhall-Glacier-Report-2022.pdf
+Glacier Change blog: https://glacierchange.blog/tag/suicide-basin-outburst/
+KTOO: https://www.ktoo.org/2025/11/25/mendenhall-glacier-has-officially-receded-from-mendenhall-lake/
+Alaska Beacon / ADN: https://www.adn.com/alaska-news/science/2025/10/10/mendenhall-glacier-is-pulling-its-icy-toe-from-the-lake-it-created/
